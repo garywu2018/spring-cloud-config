@@ -1,0 +1,6 @@
+zuul:
+  routes:
+    client-a:
+      path: /shanghai/**
+      url: providerA
+      sensitiveHeaders:
