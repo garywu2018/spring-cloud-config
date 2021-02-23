@@ -2,6 +2,6 @@ zuul:
   routes:
     providerA:
       path: /shanghai/**
-      url: providerA1
+      url: providerA
       sensitiveHeaders:
   add-proxy-headers: false
