@@ -4,3 +4,4 @@ zuul:
       path: /shanghai/**
       url: providerA
       sensitiveHeaders:
+  add-proxy-headers: false
